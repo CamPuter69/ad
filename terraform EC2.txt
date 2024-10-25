@@ -1,0 +1,10 @@
+follow the commands on AWS  prior to terra installation
+
+go to IAm user
+go to  security credentials 
+click create access key
+
+ec2 instances go to security group 
+copy any security key
+
+
